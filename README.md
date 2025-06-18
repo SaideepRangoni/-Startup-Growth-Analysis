@@ -64,7 +64,7 @@ This analysis provides key insights into the Indian startup ecosystem, including
 ## **Contact**
 
 If you have any questions or want to discuss this project further, feel free to reach out:
-- **Name:** [Saideep Rangoni J](https://www.linkedin.com/in/saideep-rangoni-54abb9300/)
+- **Name:** [Saideep Rangoni](https://www.linkedin.com/in/saideep-rangoni-54abb9300/)
 - **Email:** saideeprangoni@gmail.com
 - **GitHub:** [Profile](https://github.com/SaideepRangoni)
 
